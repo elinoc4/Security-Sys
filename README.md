@@ -9,4 +9,4 @@ the entire list of checkedin cars for the year can be viewed at the Cars dashboa
 
 These simple Application was written with Laravel and Material Boostrap Design for the frontend
 
-it is also highly responsive runs on 
+it is also highly responsive runs on smoothly on all via a web browser
